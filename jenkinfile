@@ -59,5 +59,3 @@ finally {
  sendToIndividuals: true])
 }
 }
-
-Step 5. If you are getting any error in the deployment stage, make sure you are co
